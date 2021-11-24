@@ -27,7 +27,7 @@ The purpose of the project is to take a working e-commerce platform that uses Co
 ## Link
 
 
-[Check out this App here!]()
+[Check out this App here!](https://shop-react-redux.herokuapp.com/)
 
 
 

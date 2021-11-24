@@ -1,9 +1,7 @@
 # Shop Shop Store Redux!
 
 
-```md
 The purpose of the project is to take a working e-commerce platform that uses Context API to manage the global state, and convert it to use Redux so the website's state management is taken out of the React ecosystem.
-```
 
 
 ## Table of Contents
@@ -36,13 +34,11 @@ The purpose of the project is to take a working e-commerce platform that uses Co
 ## User-Story
 
 
-```md
 The following application allows a user to register using the Signup page and then navigate to the Products page.
 
 The user can select a category, choose a product, view details about it on the product page, and add and remove it from their shopping cart.
 
 Finally, the user can check out by going to their shopping cart, as shown in the following animation.
-```
 
 
 ## Screenshot
